@@ -7,12 +7,11 @@
 
 - 🔭 I’m currently working on **CloudSync Dashboard**
 
-- 🌱 I’m currently learning **MACHINE LEARNING , ADVANCE AI , KOTLIN AND FLUTTER**
-
+- 🌱 I’m currently learning **MACHINE LEARNING , ADVANCE AI , KOTLIN AND FLUTTER**                                              
 - 👯 I’m looking to collaborate on **Serverless UI Framework**
-![daftpunktocat-guy](https://github.com/user-attachments/assets/19d976bd-094d-4f1f-afae-2b48e15d6bb4)
-
+  
 - 🤝 I’m looking for help with **Kubernetes CI/CD Pipeline**
+![daftpunktocat-guy (1)](https://github.com/user-attachments/assets/ba6291fe-0642-4ddd-b691-b38150208fa1)
 
 - 📫 How to reach me **nikhilyadav182003@gmail.com**
 
