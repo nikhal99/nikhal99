@@ -10,12 +10,15 @@
 - 🌱 I’m currently learning **MACHINE LEARNING , ADVANCE AI , KOTLIN AND FLUTTER**
 
 - 👯 I’m looking to collaborate on **Serverless UI Framework**
+![daftpunktocat-guy](https://github.com/user-attachments/assets/19d976bd-094d-4f1f-afae-2b48e15d6bb4)
 
 - 🤝 I’m looking for help with **Kubernetes CI/CD Pipeline**
 
 - 📫 How to reach me **nikhilyadav182003@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16_Qw-OL2vn8cHrfkubc113EO-cFp8tko/view?usp=drive_link](https://drive.google.com/file/d/16_Qw-OL2vn8cHrfkubc113EO-cFp8tko/view?usp=drive_link)
+
+- 
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
